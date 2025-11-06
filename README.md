@@ -8,7 +8,7 @@
 -  📫 You could reach me by my Email me at dwight.l.hill@outlook.com.
 
 ## Skills and Experience
-* 💻 Java, Spring Boot, JS, C#, Soldity
+* 💻 Java, Spring Boot, C#, Python
 * 📈  Generative AI and AGI
 * 💰 React, AWS, Prompt Engineering
 
