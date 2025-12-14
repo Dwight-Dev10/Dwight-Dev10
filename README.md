@@ -1,19 +1,27 @@
-### 👋 Hi, I’m Dwight
+###
+👋 Hi, I'm Dwight Hill  
+💻 Software Developer | Future Data Scientist  
+🌟 Passionate about building innovative solutions and writing clean, efficient code.  
 <!---
 ![Untitled Photo (1)](https://user-images.githubusercontent.com/83855447/163413873-263be8aa-dc2f-4ca6-8743-07b7a660975a.png)
 --->
 ## 
+👋I take pride in continuous learning and tackling complex challenges with creativity and precision. My experience spans full-stack development, cloud technologies such as Azure, AWS, and modern frameworks like React, Vue.js, and .NET.  
+-  📫 Let's connect: dwight.l.hill@outlook.com
 
-👋 Hi, I'm Dwight Hill — a Software Developer and Army Veteran with 8+ years in IT and 3+ years of professional coding experience. I specialize in building backend and full-stack applications using Java, JavaScript, Spring Boot, and React, and I'm expanding into AI and cloud technologies like AWS and Azure.
--  📫 You could reach me by my Email me at dwight.l.hill@outlook.com.
+Currently pursuing a B.S. in Computer Science while actively contributing to projects that make a real impact.  
+🚀 Always exploring new technologies and striving to deliver high-quality software.  
 
 ## Skills and Experience
-* 💻 Java, Spring Boot, C#, Python
-* 📈  Generative AI and AGI
-* 💰 React, AWS, Prompt Engineering
+* 💻 Java, C#, Python
+* 📈  Generative AI, Spring boot, Boot Strap
+* 💰 React, AWS, Azure, .NET Framework
+
+## Certifications
+* Microsoft Certified: Azure Fundamentals (AZ-900)
+* *Microsoft Certified: Azure AI Engineer Associate (AI-102) (inprogress..)*
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dee-dev1738&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Dee-Dev1738/Dee-Dev1738 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
