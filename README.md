@@ -1,6 +1,6 @@
 ###
 👋 Hi, I'm Dwight Hill  
-💻 Software Developer | Future Data Scientist  
+💻 Full Stakc Software Developer
 🌟 Passionate about building innovative solutions and writing clean, efficient code.  
 <!---
 ![Untitled Photo (1)](https://user-images.githubusercontent.com/83855447/163413873-263be8aa-dc2f-4ca6-8743-07b7a660975a.png)
@@ -13,7 +13,7 @@ Currently pursuing a B.S. in Computer Science while actively contributing to pro
 🚀 Always exploring new technologies and striving to deliver high-quality software.  
 
 ## Skills and Experience
-* 💻 Java, C#, Python
+* 💻 Java, Python, Java
 * 📈  Generative AI, Spring boot, Boot Strap
 * 💰 React, AWS, Azure, .NET Framework
 
