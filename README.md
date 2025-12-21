@@ -6,7 +6,7 @@
 ![Untitled Photo (1)](https://user-images.githubusercontent.com/83855447/163413873-263be8aa-dc2f-4ca6-8743-07b7a660975a.png)
 --->
 ## 
-👋I take pride in continuous learning and tackling complex challenges with creativity and precision. My experience spans full-stack development, cloud technologies such as Azure, AWS, and modern frameworks like React, Vue.js, and .NET.  
+👋I take pride in be a software Developer and tackling complex problems. My experience spans full-stack development, cloud technologies such as Azure, AWS, and modern frameworks like React, Vue.js, and .NET.  
 -  📫 Let's connect: dwight.l.hill@outlook.com
 
 Currently pursuing a B.S. in Computer Science while actively contributing to projects that make a real impact.  
