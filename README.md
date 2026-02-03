@@ -1,7 +1,7 @@
 ###
 👋 Hi, I'm Dwight Hill  
 💻 Full Stakc Software Developer
-🌟 Passionate about building innovative solutions and writing clean, efficient code.  
+🌟 I'm vateran with a background in IT support and 3 years of hands on expeirence in Software Development. 
 <!---
 ![Untitled Photo (1)](https://user-images.githubusercontent.com/83855447/163413873-263be8aa-dc2f-4ca6-8743-07b7a660975a.png)
 --->
