@@ -13,7 +13,7 @@ Currently pursuing a B.S. in Computer Science while actively contributing to pro
 🚀 Always exploring new technologies and striving to deliver high-quality software.  
 
 ## Skills and Experience
-* 💻 Java, Python, JavaScript
+* 💻 Java, Python, C, JavaScript
 * Generative AI, Spring boot, Boot Strap
 * React, AWS, Azure, .NET Framework
 
