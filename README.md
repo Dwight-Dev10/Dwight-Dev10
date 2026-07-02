@@ -13,13 +13,13 @@ Currently pursuing a B.S. in Computer Science while actively contributing to pro
 🚀 Always exploring new technologies and striving to deliver high-quality software.  
 
 ## Skills and Experience
-* 💻 Java, Python, C, JavaScript
+* 💻 Java, Python, C#, JavaScript
 * Generative AI, Spring boot, Boot Strap
-* React, AWS, Azure, .NET Framework
+* ASP.NET Core, Azure, .NET Framework
 
 ## Certifications
 * Microsoft Certified: Azure Fundamentals (AZ-900)
-* *Microsoft Certified: Azure AI Engineer Associate (AI-102) (inprogress..)*
+
 
 
 
